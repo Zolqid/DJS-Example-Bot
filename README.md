@@ -22,7 +22,7 @@ Supports **slash commands**, **context menu commands**, and **prefix-based comma
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/DJS-Example-Bot.git
+   git clone https://github.com/Zolqid/DJS-Example-Bot.git
    cd DJS-Example-Bot
    ```
 
