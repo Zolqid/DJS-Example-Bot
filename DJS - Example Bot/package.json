@@ -1,0 +1,20 @@
+{
+  "name": "djs-example-bot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "zolqid",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "discord.js": "^14.21.0",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
